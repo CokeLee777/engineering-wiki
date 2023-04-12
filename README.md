@@ -4,33 +4,38 @@
 
 **:book: Contents**
 - [engineering-wiki](#engineering-wiki)
-  - [1. Spring](#1-spring)
-  - [2. Infrastructure](#2-infrastructure)
-  - [3. Database](#3-database)
-  - [4. Network](#4-network)
-  - [5. ETC](#5-etc)
+  - [1. Java](#1-java)
+  - [2. Spring](#2-spring)
+  - [3. Infrastructure](#3-infrastructure)
+  - [4. Database](#4-database)
+  - [5. Network](#5-network)
+  - [6. ETC](#6-etc)
 
 ---
 
-## 1. Spring
+## 1. Java
+:arrow_forward: [바로가기](/java)
+* [X] [Serialization & Deserialization](/java/01.md)
+
+## 2. Spring
 :arrow_forward: [바로가기](/spring)
 * [X] [@ModelAttribute & @RequestBody](/spring/01.md)
 * [X] [Api Exception](/spring/02.md)
 * [X] [@Transactional(readOnly = true)](/spring/03.md)
 * [X] [JPA 식별자 전략](/spring/04.md)
 
-## 2. Infrastructure
+## 3. Infrastructure
 :arrow_forward: [바로가기](/infrastructure)
 * [X] [AWS CloudFront Origin Shield](/infrastructure/01.md)
 
-## 3. Database
+## 4. Database
 :arrow_forward: [바로가기](/database)
 
-## 4. Network
+## 5. Network
 :arrow_forward: [바로가기](/network)
 * [X] [HTTPS](/network/01.md)
 
-## 5. ETC
+## 6. ETC
 :arrow_forward: [바로가기](/etc)
 * [X] [WebSocket](/etc/01.md)
 * [X] [WebRTC](/etc/02.md)
