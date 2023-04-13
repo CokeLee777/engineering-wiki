@@ -34,6 +34,8 @@
 ## 5. Network
 :arrow_forward: [바로가기](/network)
 * [X] [HTTPS](/network/01.md)
+* [X] [TCP/IP](/network/02.md)
+* [X] [TCP와 UDP](/network/03.md)
 
 ## 6. ETC
 :arrow_forward: [바로가기](/etc)
