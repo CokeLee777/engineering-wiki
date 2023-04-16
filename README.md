@@ -38,6 +38,7 @@
 * [X] [TCP와 UDP](/network/03.md)
 * [X] [세션과 쿠키](/network/04.md)
 * [X] [DNS](/network/05.md)
+* [X] [REST & RESTful](/network/06.md)
 
 ## 6. ETC
 :arrow_forward: [바로가기](/etc)
