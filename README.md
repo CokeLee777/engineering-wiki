@@ -30,6 +30,7 @@
 
 ## 4. Database
 :arrow_forward: [바로가기](/database)
+* [X] [RDBMS & NoSQL](/database/01.md)
 
 ## 5. Network
 :arrow_forward: [바로가기](/network)
