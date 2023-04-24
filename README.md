@@ -9,7 +9,8 @@
   - [3. Infrastructure](#3-infrastructure)
   - [4. Database](#4-database)
   - [5. Network](#5-network)
-  - [6. ETC](#6-etc)
+  - [6. Operating System](#6-operating-system)
+  - [7. ETC](#7-etc)
 
 ---
 
@@ -41,7 +42,11 @@
 * [X] [DNS](/network/05.md)
 * [X] [REST & RESTful](/network/06.md)
 
-## 6. ETC
+## 6. Operating System
+:arrow_forward: [바로가기](/network)
+* [X] [교착상태(데드락, Deadlock)의 개념과 조건](/os/01.md)
+
+## 7. ETC
 :arrow_forward: [바로가기](/etc)
 * [X] [WebSocket](/etc/01.md)
 * [X] [WebRTC](/etc/02.md)
