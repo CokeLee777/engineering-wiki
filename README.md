@@ -45,6 +45,7 @@
 ## 6. Operating System
 :arrow_forward: [바로가기](/network)
 * [X] [교착상태(데드락, Deadlock)의 개념과 조건](/os/01.md)
+* [X] [캐시(Cache)](/os/02.md)
 
 ## 7. ETC
 :arrow_forward: [바로가기](/etc)
