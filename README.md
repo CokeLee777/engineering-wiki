@@ -51,6 +51,7 @@
 ## 7. Security
 :arrow_forward: [바로가기](/network)
 * [X] [CSRF](/security/01.md)
+* [X] [패스워드 암호화 방법](/security/02.md)
 
 ## 8. ETC
 :arrow_forward: [바로가기](/etc)
