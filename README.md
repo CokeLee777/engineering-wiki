@@ -29,6 +29,7 @@
 ## 3. Infrastructure
 :arrow_forward: [바로가기](/infrastructure)
 * [X] [AWS CloudFront Origin Shield](/infrastructure/01.md)
+* [X] [AWS S3 Transfer Acceleration](/infrastructure/02.md)
 
 ## 4. Database
 :arrow_forward: [바로가기](/database)
