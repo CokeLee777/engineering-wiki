@@ -59,5 +59,6 @@
 * [X] [WebSocket](/etc/01.md)
 * [X] [WebRTC](/etc/02.md)
 * [X] [Nginx](/etc/03.md)
+* [X] [OAuth](/etc/04.md)
 
 ---
