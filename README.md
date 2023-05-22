@@ -4,39 +4,44 @@
 
 **:book: Contents**
 - [engineering-wiki](#engineering-wiki)
-  - [1. Java](#1-java)
-  - [2. Spring](#2-spring)
-  - [3. Infrastructure](#3-infrastructure)
-  - [4. Database](#4-database)
-  - [5. Network](#5-network)
-  - [6. Operating System](#6-operating-system)
-  - [7. Security](#7-security)
-  - [8. ETC](#8-etc)
+  - [1. Data Structure](#1-data-structure)
+  - [2. Java](#2-java)
+  - [3. Spring](#3-spring)
+  - [4. Infrastructure](#4-infrastructure)
+  - [5. Database](#5-database)
+  - [6. Network](#6-network)
+  - [7. Operating System](#7-operating-system)
+  - [8. Security](#8-security)
+  - [9. ETC](#9-etc)
 ---
 
-## 1. Java
+## 1. Data Structure
+:arrow_forward: [바로가기](/datastructure)
+* [X] [Hash Table](/datastructure/01.md)
+
+## 2. Java
 :arrow_forward: [바로가기](/java)
 * [X] [Serialization & Deserialization](/java/01.md)
 * [X] [Reflection](/java/02.md)
 
-## 2. Spring
+## 3. Spring
 :arrow_forward: [바로가기](/spring)
 * [X] [@ModelAttribute & @RequestBody](/spring/01.md)
 * [X] [Api Exception](/spring/02.md)
 * [X] [@Transactional(readOnly = true)](/spring/03.md)
 * [X] [JPA 식별자 전략](/spring/04.md)
 
-## 3. Infrastructure
+## 4. Infrastructure
 :arrow_forward: [바로가기](/infrastructure)
 * [X] [AWS CloudFront Origin Shield](/infrastructure/01.md)
 * [X] [AWS S3 Transfer Acceleration](/infrastructure/02.md)
 
-## 4. Database
+## 5. Database
 :arrow_forward: [바로가기](/database)
 * [X] [RDBMS & NoSQL](/database/01.md)
 * [X] [DB Connection Pool](/database/02.md)
 
-## 5. Network
+## 6. Network
 :arrow_forward: [바로가기](/network)
 * [X] [HTTPS](/network/01.md)
 * [X] [TCP/IP](/network/02.md)
@@ -45,17 +50,17 @@
 * [X] [DNS](/network/05.md)
 * [X] [REST & RESTful](/network/06.md)
 
-## 6. Operating System
+## 7. Operating System
 :arrow_forward: [바로가기](/network)
 * [X] [교착상태(데드락, Deadlock)의 개념과 조건](/os/01.md)
 * [X] [캐시(Cache)](/os/02.md)
 
-## 7. Security
+## 8. Security
 :arrow_forward: [바로가기](/network)
 * [X] [CSRF](/security/01.md)
 * [X] [패스워드 암호화 방법](/security/02.md)
 
-## 8. ETC
+## 9. ETC
 :arrow_forward: [바로가기](/etc)
 * [X] [WebSocket](/etc/01.md)
 * [X] [WebRTC](/etc/02.md)
