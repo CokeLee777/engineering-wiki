@@ -12,7 +12,8 @@
   - [6. Network](#6-network)
   - [7. Operating System](#7-operating-system)
   - [8. Security](#8-security)
-  - [9. ETC](#9-etc)
+  - [9. Design Pattern](#9-design-pattern)
+  - [10. ETC](#10-etc)
 ---
 
 ## 1. Data Structure
@@ -63,7 +64,11 @@
 * [X] [CSRF](/security/01.md)
 * [X] [패스워드 암호화 방법](/security/02.md)
 
-## 9. ETC
+## 9. Design Pattern
+:arrow_forward: [바로가기](/designpattern)
+* [X] [Strategy pattern](/designpattern/01.md)
+
+## 10. ETC
 :arrow_forward: [바로가기](/etc)
 * [X] [WebSocket](/etc/01.md)
 * [X] [WebRTC](/etc/02.md)
