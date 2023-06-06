@@ -31,6 +31,7 @@
 * [X] [Api Exception](/spring/02.md)
 * [X] [@Transactional(readOnly = true)](/spring/03.md)
 * [X] [JPA 식별자 전략](/spring/04.md)
+* [X] [JPA - MultipleBagFetchException](/spring/05.md)
 
 ## 4. Infrastructure
 :arrow_forward: [바로가기](/infrastructure)
