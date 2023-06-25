@@ -71,6 +71,7 @@
 :arrow_forward: [바로가기](/designpattern)
 * [X] [Strategy pattern](/designpattern/01.md)
 * [X] [Template Method pattern](/designpattern/02.md)
+* [X] [Proxy pattern](/designpattern/03.md)
 
 ## 10. ETC
 :arrow_forward: [바로가기](/etc)
