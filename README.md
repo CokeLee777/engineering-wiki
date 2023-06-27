@@ -81,5 +81,6 @@
 * [X] [OAuth](/etc/04.md)
 * [X] [3rd party](/etc/05.md)
 * [X] [DevOps](/etc/06.md)
+* [X] [Elasticsearch](/etc/07.md)
 
 ---
