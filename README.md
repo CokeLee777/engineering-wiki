@@ -34,6 +34,7 @@
 * [X] [JPA - MultipleBagFetchException](/spring/05.md)
 * [X] [JPA - Left Fetch Join vs Fetch Join](/spring/06.md)
 * [X] [Kotlin JPA 세팅 관련 주의사항](/spring/07.md)
+* [X] [JPA - N+1 Problem](/spring/08.md)
 
 ## 4. Infrastructure
 :arrow_forward: [바로가기](/infrastructure)
