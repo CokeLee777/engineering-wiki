@@ -57,6 +57,8 @@
 * [X] [세션과 쿠키](/network/04.md)
 * [X] [DNS](/network/05.md)
 * [X] [REST & RESTful](/network/06.md)
+* [X] [SOCKET](/network/07.md)
+* [X] [CORS ERROR - 'The request client is not a secure context and the resource is in more-private address space `local`'](/network/08.md)
 
 ## 7. Operating System
 :arrow_forward: [바로가기](/network)
