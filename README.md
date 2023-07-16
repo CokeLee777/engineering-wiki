@@ -24,6 +24,7 @@
 :arrow_forward: [바로가기](/java)
 * [X] [Serialization & Deserialization](/java/01.md)
 * [X] [Reflection](/java/02.md)
+* [X] [JVM](/java/03.md)
 
 ## 3. Spring
 :arrow_forward: [바로가기](/spring)
