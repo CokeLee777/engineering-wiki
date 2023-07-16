@@ -88,5 +88,6 @@
 * [X] [3rd party](/etc/05.md)
 * [X] [DevOps](/etc/06.md)
 * [X] [Elasticsearch](/etc/07.md)
+* [X] [OOP 5가지 원칙](/etc/08.md)
 
 ---
