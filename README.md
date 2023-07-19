@@ -26,6 +26,7 @@
 * [X] [Reflection](/java/02.md)
 * [X] [JVM](/java/03.md)
 * [X] [Wrapper Class](/java/04.md)
+* [X] [Garbage Collection](/java/05.md)
 
 ## 3. Spring
 :arrow_forward: [바로가기](/spring)
