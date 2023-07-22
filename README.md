@@ -92,5 +92,6 @@
 * [X] [DevOps](/etc/06.md)
 * [X] [Elasticsearch](/etc/07.md)
 * [X] [OOP 5가지 원칙](/etc/08.md)
+* [X] [MSA](/etc/09.md)
 
 ---
