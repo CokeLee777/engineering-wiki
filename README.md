@@ -19,6 +19,7 @@
 ## 1. Data Structure
 :arrow_forward: [바로가기](/datastructure)
 * [X] [Hash Table](/datastructure/01.md)
+* [X] [B-tree](/datastructure/02.md)
 
 ## 2. Java
 :arrow_forward: [바로가기](/java)
