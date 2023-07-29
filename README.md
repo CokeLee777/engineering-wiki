@@ -55,6 +55,7 @@
 * [X] [Replication](/database/03.md)
 * [X] [Stored Procedure](/database/04.md)
 * [X] [Clustered Index & Non-Clustered Index](/database/05.md)
+* [X] [Lock & Transaction(MySQL)](/database/06.md)
 
 ## 6. Network
 :arrow_forward: [바로가기](/network)
