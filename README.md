@@ -29,6 +29,7 @@
 * [X] [JVM](/java/03.md)
 * [X] [Wrapper Class](/java/04.md)
 * [X] [Garbage Collection](/java/05.md)
+* [X] [SOLID](/java/06.md)
 
 ## 3. Spring
 :arrow_forward: [바로가기](/spring)
