@@ -47,6 +47,7 @@
 * [X] [AWS CloudFront Origin Shield](/infrastructure/01.md)
 * [X] [AWS S3 Transfer Acceleration](/infrastructure/02.md)
 * [X] [AWS CodeDeploy](/infrastructure/03.md)
+* [X] [[k8s] kube-proxy가 네트워크를 관리하는 3가지 모드(userspace, iptables, IPVS)](/infrastructure/04.md)
 
 ## 5. Database
 :arrow_forward: [바로가기](/database)
