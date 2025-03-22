@@ -71,6 +71,7 @@
 * [X] [CORS ERROR - 'The request client is not a secure context and the resource is in more-private address space `local`'](/network/08.md)
 * [X] [OSI 참조모델 & TCP/IP 참조모델](/network/09.md)
 * [X] [CIDR](/network/10.md)
+* [x] [웹 요청에서 데이터의 흐름 - OSI 7 Layer 관점](/network/11.md)
 
 ## 7. Operating System
 :arrow_forward: [바로가기](/operating-system)
